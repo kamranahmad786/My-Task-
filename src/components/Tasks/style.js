@@ -9,7 +9,7 @@ export const TagsCategory = styled.p`
   margin: 5px;
   color: #131213;
   font-family: 'Roboto';
-  font-size: 12px;
+  font-size: 14px;
   font-weight: bold;
   text-align: center;
 `
